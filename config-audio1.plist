@@ -752,8 +752,6 @@
 		<true/>
 		<key>Audio</key>
 		<dict>
-			<key>#Inject</key>
-			<string>12</string>
 			<key>AFGLowPowerState</key>
 			<true/>
 			<key>Inject</key>
