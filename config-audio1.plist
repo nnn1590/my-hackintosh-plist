@@ -110,8 +110,6 @@
 			<false/>
 			<key>Fixes</key>
 			<dict>
-				<key>Fix_Display_0100</key>
-				<true/>
 				<key>FixIDE</key>
 				<false/>
 				<key>FixIPIC</key>
