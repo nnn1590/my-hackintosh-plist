@@ -384,8 +384,8 @@
 		<false/>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
-		<key>#Arguments</key>
-		<string>slide=0 darkwake=0</string>
+		<key>Arguments</key>
+		<string>IGPEnabler=Yes GraphicsEnabler=No</string>
 		<key>StrictHibernate</key>
 		<false/>
 		<key>#DefaultLoader</key>
